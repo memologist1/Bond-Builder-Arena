@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Bond Builder Arena",
+  "description": "A fast-paced chemistry puzzle game where you drag and drop atoms to build stable molecules. Uses Gemini AI to identify creations and provide chemical insights.",
+  "requestFramePermissions": []
+}
